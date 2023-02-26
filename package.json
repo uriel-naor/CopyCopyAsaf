@@ -4,9 +4,6 @@
   "description": "A collection of demos in one big example",
   "private": true,
   "license": "MIT",
-  "cacheDirectories": [
-    "node_modules"
-  ],
   "dependencies": {
     "@angular/animations": "4.4.3",
     "@angular/common": "4.4.3",
